@@ -1,8 +1,15 @@
 ## loopback-connector-arango
 
-ArangoDB connector for LoopBack. Modified only slightly by me.
+ArangoDB connector for LoopBack.
+
+[Original author](https://github.com/nvdnkpr)
 [Original NPM registry](https://www.npmjs.com/package/loopback-connector-arango)
 
+Modified by me as the Github repository and NPM registry were out of sync as of 5/8/15.
+
+This code is pulled from NPM and updated with some changes to work with new versions of LoopBack.
+
+Thanks for [nvdnkpr](https://github.com/nvdnkpr) for the original code.
 
 ### ArangoDB related customization
 #### _id, _key and _rev
