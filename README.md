@@ -1,3 +1,6 @@
+# This repository is no longer maintained and will not be updated in any way.
+# You should use the original [loopback-connector-arangodb](https://github.com/nvdnkpr/loopback-connector-arangodb) repository.
+
 ## loopback-connector-arango
 
 ArangoDB connector for LoopBack.
@@ -111,4 +114,3 @@ But it will be the normal
     LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
     THE SOFTWARE.
-
